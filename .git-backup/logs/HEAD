@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 d6ede87fd2091076ea224f4a6bfb28aa1a720970 xgmxgm <ekalkabekov@gmail.com> 1793188406 +0600	commit (initial): Initial Terraform configuration
+d6ede87fd2091076ea224f4a6bfb28aa1a720970 14484ce6b7d3e2d295cdcdf11b17333fa58d07eb xgmxgm <ekalkabekov@gmail.com> 1793188445 +0600	commit: Update file parameters
+14484ce6b7d3e2d295cdcdf11b17333fa58d07eb d332d33bedf7ab9d2e5a9252fc242331a3264e73 xgmxgm <ekalkabekov@gmail.com> 1793188963 +0600	commit: my test commit
+d332d33bedf7ab9d2e5a9252fc242331a3264e73 0000000000000000000000000000000000000000 xgmxgm <ekalkabekov@gmail.com> 1793189008 +0600	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 d332d33bedf7ab9d2e5a9252fc242331a3264e73 xgmxgm <ekalkabekov@gmail.com> 1793189008 +0600	Branch: renamed refs/heads/master to refs/heads/main
+d332d33bedf7ab9d2e5a9252fc242331a3264e73 0000000000000000000000000000000000000000 xgmxgm <ekalkabekov@gmail.com> 1793189012 +0600	Branch: renamed refs/heads/main to refs/heads/main
+d332d33bedf7ab9d2e5a9252fc242331a3264e73 d332d33bedf7ab9d2e5a9252fc242331a3264e73 xgmxgm <ekalkabekov@gmail.com> 1793189012 +0600	Branch: renamed refs/heads/main to refs/heads/main
+d332d33bedf7ab9d2e5a9252fc242331a3264e73 197cd0aec155bc3066f38214697e16792d59e770 xgmxgm <ekalkabekov@gmail.com> 1793189178 +0600	commit: init
+197cd0aec155bc3066f38214697e16792d59e770 3ccd608c1ff343d43e846c12dffaf80246021b02 xgmxgm <ekalkabekov@gmail.com> 1793189299 +0600	commit: add terraform file to gitignore
+3ccd608c1ff343d43e846c12dffaf80246021b02 c74035d1b8e717aee5e1bb31f13b10c246fa6b10 xgmxgm <ekalkabekov@gmail.com> 1793189366 +0600	commit: test
